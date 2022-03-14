@@ -1,5 +1,5 @@
 name: Crash Bug Report
-description: Report a bug that causes NecroInstaller to crash.
+description: Report a bug that causes NecroUpdater to crash.
 title: '[Csh] title'
 labels: ["Issue: Bug", "Issue: Open", "Issue: Crash"]
 body:

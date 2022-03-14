@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
   - name: Suggestion
-    url: https://github.com/NecroClient/Installer/discussions/new?category=ideas
-    about: Suggest something for NecroInstaller!
+    url: https://github.com/NecroClient/Updater/discussions/new?category=ideas
+    about: Suggest something for NecroUpdater!
   - name: Need help?
     url: https://disboard.org/server/951188562026569848
     about: Ask questions in our discord!

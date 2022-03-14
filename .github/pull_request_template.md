@@ -4,7 +4,7 @@
 <!---
 
 BEFORE SUBMITTING YOUR PULL REQUEST, PLEASE READ OUR CONTRIBUTING GUIDELINES:
-https://github.com/NecroClient/Installer/blob/master/.github/CONTRIBUTING.md
+https://github.com/NecroClient/Updater/blob/master/.github/CONTRIBUTING.md
 
 
 MAKE SURE TO DESCRIBE THE PULL REQUEST, AND ENABLE [ALLOW EDITS FROM MAINTAINERS].

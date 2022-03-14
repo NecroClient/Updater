@@ -2,11 +2,11 @@
 
 ## 1. Purpose
 
-A primary goal of NecroClient/Installer is to make it easy for anyone to install Necro Client.
+A primary goal of NecroClient/Updater is to make it easy for anyone to update Necro Client.
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
-We invite all those who participate in NecroClient/Installer to help us create safe and positive experiences for everyone.
+We invite all those who participate in NecroClient/Updater to help us create safe and positive experiences for everyone.
 
 ## 2. Open [Source/Culture/Tech] Citizenship
 
@@ -45,7 +45,7 @@ The following behaviors are get you banned:
 
 Summary: Follow the law and don't bring weapons
 
-No weapons will be allowed at NecroClient/Installer events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives, and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Community members are further expected to comply with all state and local laws on this matter.
+No weapons will be allowed at NecroClient/Updater events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives, and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Community members are further expected to comply with all state and local laws on this matter.
 
 ## 6. Consequences of Unacceptable Behavior
 
