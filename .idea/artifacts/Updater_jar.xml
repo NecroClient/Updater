@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Updater:jar">
+    <output-path>$PROJECT_DIR$/build/</output-path>
+    <root id="archive" name="NecroUpdater.jar">
+      <element id="module-output" name="Updater" />
+    </root>
+  </artifact>
+</component>
